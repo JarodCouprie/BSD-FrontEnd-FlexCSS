@@ -42,7 +42,7 @@ header ul li a{
     color: black;
 }
 
-section{
+#corps{
     display: flex;
     flex: 10;
 }
